@@ -1,1 +1,1 @@
-# testrepository
+# testrepository for GIT commands demonstration
