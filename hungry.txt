@@ -1,1 +1,7 @@
 im hungry
+
+Are you hungry ?
+
+If Hungry - eat food
+
+else do you work
